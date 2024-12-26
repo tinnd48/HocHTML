@@ -1,0 +1,3 @@
+Muốn biết file nằm ở đâu trên ổ đĩa nào. Thì bấm chuột trái vào nó
+==> Bấm tổ hợp phím: "Shift + alt + r"
+==> Hoặc tiếp tục bấm chuột phải rồi chọn vào "Reveal in File Explorer"
